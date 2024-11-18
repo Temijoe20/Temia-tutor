@@ -21,7 +21,7 @@ const Footer = () => {
             <div className="py-8 px-4 space-y-4">
               <div className="text-2xl flex items-center gap-2 font-bold uppercase">
                 <MdComputer className="text-secondary text-4xl" />
-                <p className="">E-Tutor</p>
+                <p className="">Temia-Tutor</p>
               </div>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque
